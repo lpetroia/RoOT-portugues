@@ -1,2 +1,2 @@
 set PYTHONPATH=.;.\codes\VILLAGE
-codes\VILLAGE\python.exe .\codes\RoOT.py
+codes\VILLAGE\python.exe .\codes\RoOT_portuguese.py
